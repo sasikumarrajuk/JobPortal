@@ -1,6 +1,6 @@
-> ✨ **Note:** This is an live demo [Job Application](https://vercel.com/sasikumars-projects-c1b34e52/job-portal).
+> ✨ **Note:** This is an live demo [Job Application](https://job-portal-sooty-two.vercel.app/).
 
-### [Live demo](https://vercel.com/sasikumars-projects-c1b34e52/job-portal)
+### [Live demo](https://job-portal-sooty-two.vercel.app/)
 
 ## Getting Started
 
